@@ -57,7 +57,7 @@ The solution was designed to address the following business questions:
 
 ### 1. Executive Dashboard
 
-
+[🔍 View Full-Resolution Executive Dashboard](./dashboard/screenshots/01-executive-dashboard.png)
 
 ![Northstar Bikes Executive Dashboard](./dashboard/screenshots/01-executive-dashboard.png)
 
