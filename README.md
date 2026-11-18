@@ -25,9 +25,7 @@ An end-to-end Power BI analytics solution designed to transform sales, customer,
 
 Northstar Bikes a global manufacturer of cycling equipment and accessories, needed a centralized Business Intelligence solution to gain visibility into business performance across sales, products, regions, and customers.
 
-Management lacked an interactive analytical view to monitor key performance indicators, evaluate regional performance, understand product-level trends, and identify high-value customer segments. 
-
-The objective was to transform raw transactional data into a structured, data-driven reporting solution that enables performance monitoring, comparative analysis, and more informed business decisions.
+Management lacked an interactive analytical view to monitor key performance indicators, evaluate regional performance, understand product-level trends, and identify high-value customer segments. The objective was to transform raw transactional data into a structured, data-driven reporting solution that enables performance monitoring, comparative analysis, and more informed business decisions.
 
 The project focused on four strategic analytical priorities:
 
