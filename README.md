@@ -253,24 +253,28 @@ Created a reusable measure library covering:
 
 ![Northstar Bikes Data Model](./dashboard/screenshots/05-data-model-%20star-snowflake-%20schema.PNG)
 
-The data model integrates sales and returns with customer, product, territory, calendar, category, and subcategory dimensions.
+The project uses a **Star Schema with Snowflake Schema extensions**, designed to support cross-dimensional analysis of sales, returns, customers, products, geography, and time.
 
-**Core tables include:**
+The **Sales Data** and **Returns Data** fact tables connect to shared dimension tables, including Product, Territory, and Calendar. The Product dimension extends into a snowflake structure through related **Product Subcategories** and **Product Categories** tables, enabling hierarchical product analysis from individual products to subcategories and categories.
 
-- Sales Data
-- Returns Data
-- Customer Lookup
-- Product Lookup
-- Product Categories Lookup
-- Product Subcategories Lookup
-- Territory Lookup
-- Calendar Lookup
-- Measure Table
-- Product Metric Selection
-- Customer Metric Selection
-- Price Adjustment Parameter
+### Core Tables
 
-The model supports cross-dimensional analysis of transactions, customers, products, geography, time, and returns.
+| Table | Role |
+|---|---|
+| Sales Data | Sales transaction fact table |
+| Returns Data | Product returns fact table |
+| Customer Lookup | Customer attributes and segmentation |
+| Product Lookup | Product-level details |
+| Product Subcategories Lookup | Product subcategory classification |
+| Product Categories Lookup | Product category hierarchy |
+| Territory Lookup | Geographic and regional analysis |
+| Calendar Lookup | Date-based and time intelligence analysis |
+| Measure Table | Centralized DAX measures |
+| Product Metric Selection | Dynamic product metric selection |
+| Customer Metric Selection | Dynamic customer metric selection |
+| Price Adjustment Parameter | What-if price simulation |
+
+The model enables analysis across multiple dimensions while supporting product hierarchy drill-down, geographic comparisons, time-based analysis, customer segmentation, and sales-versus-returns evaluation.
 
 ---
 
@@ -330,15 +334,8 @@ northstar-bikes-sales-customer-analytics-power-bi/
 ---
 
 
-## 📌 Project Context
 
-This project was developed as part of a guided business analytics case study. The focus of the implementation was to apply Power BI skills to build an end-to-end analytical solution, including data preparation, relational modeling, DAX development, interactive reporting, and business insight generation.
-
-The project demonstrates the practical application of Business Intelligence techniques to business performance analysis.
-
----
-
-## 👤 About
+## 👤 About Me : Richa Jain
 
 **Data Analyst | SQL • Python • Power BI • Tableau • Excel**
 
