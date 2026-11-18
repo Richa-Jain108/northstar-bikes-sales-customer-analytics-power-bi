@@ -50,7 +50,6 @@ The solution was designed to address the following business questions:
 - How are product returns impacting performance?
 - How can business performance be monitored through dynamic KPIs?
 
-The goal was to build an interactive Power BI solution that transforms raw data into actionable business intelligence through KPI reporting, trend analysis, drill-down capabilities, and dynamic visual exploration.
 ---
 
 ## 🖥️ Dashboard Showcase
