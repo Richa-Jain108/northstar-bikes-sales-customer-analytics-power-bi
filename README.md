@@ -10,7 +10,7 @@ An end-to-end Power BI analytics solution designed to transform sales, customer,
 
 | Resource | Description |
 |---|---|
-| 🎥 **[Watch Project Walkthrough](https://youtu.be/OruahIAMCqQ)** | WATCH THIS : !!Video walkthrough of the Power BI solution, dashboards, analytical features, and key findings |
+| 🎥 **[Watch Project Walkthrough](https://youtu.be/OruahIAMCqQ)** | WATCH THIS !! Video walkthrough of the Power BI solution, dashboards, analytical features, and key findings |
 | 📊 **[Executive Dashboard](./dashboard/screenshots/01-executive-dashboard.png)** | Business performance overview |
 | 🌎 **[Regional Analysis](./dashboard/screenshots/02-regional-analysis.png)** | Geographic sales performance |
 | 🚲 **[Product Analysis](./dashboard/screenshots/03-product-analysis.png)** | Product performance, targets, and price simulation |
