@@ -34,7 +34,6 @@ The project focused on four strategic analytical priorities:
 - **Product Performance Analysis:** Analyze product-level sales, profitability, order trends, target attainment, and return behavior to understand product performance and areas for improvement.
 - **Customer Value Analysis:** Identify high-value customers and analyze customer purchasing behavior, profiles, and segments to support customer-focused business strategies.
 
-The goal was to build an interactive Power BI solution that transforms raw data into actionable business intelligence through KPI reporting, trend analysis, drill-down capabilities, and dynamic visual exploration.
 ---
 
 ## 🎯 Project Objectives
@@ -51,6 +50,7 @@ The solution was designed to address the following business questions:
 - How are product returns impacting performance?
 - How can business performance be monitored through dynamic KPIs?
 
+The goal was to build an interactive Power BI solution that transforms raw data into actionable business intelligence through KPI reporting, trend analysis, drill-down capabilities, and dynamic visual exploration.
 ---
 
 ## 🖥️ Dashboard Showcase
